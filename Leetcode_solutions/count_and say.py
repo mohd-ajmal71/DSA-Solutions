@@ -17,3 +17,4 @@ class Solution:
             ans = ans + str(count) + ch
             result = ans
         return result
+4
